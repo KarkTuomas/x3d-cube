@@ -5,7 +5,7 @@
       <Appearance>
         <Material diffuseColor='0 1 0'/> <!-- sininen -->
       </Appearance>
-      <Cylinder height="2" radius="0.5"/> <!-- sylinteri -->
+      <Cylinder height="2.25" radius="0.75"/> <!-- sylinteri -->
     </Shape>
   </Scene>
 </X3D>
