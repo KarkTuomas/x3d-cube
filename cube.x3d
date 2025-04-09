@@ -3,9 +3,9 @@
   <Scene>
     <Shape>
       <Appearance>
-        <Material diffuseColor='1 0 0'/>
+        <Material diffuseColor='0 0 1'/> <!-- sininen -->
       </Appearance>
-      <Box/>
+      <Cylinder height="2" radius="0.5"/> <!-- sylinteri -->
     </Shape>
   </Scene>
 </X3D>
