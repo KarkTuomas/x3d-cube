@@ -3,7 +3,7 @@
   <Scene>
     <Shape>
       <Appearance>
-        <Material diffuseColor='0 0 1'/> <!-- sininen -->
+        <Material diffuseColor='0 1 0'/> <!-- sininen -->
       </Appearance>
       <Cylinder height="2" radius="0.5"/> <!-- sylinteri -->
     </Shape>
